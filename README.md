@@ -1,0 +1,1 @@
+# This is Mizo to English (MIZEN) bilingual parallel corpus between Mizo language and English language consisting of 22915 parallel sentence. This is part of the larger corpus constructed for the research paper "Construction of Mizo - English parallel corpus for machine transalation."
